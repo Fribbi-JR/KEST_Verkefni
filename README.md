@@ -1,2 +1,2 @@
 # Verkefni
-## Echo # Verkefni
+## echo # Verkefni
