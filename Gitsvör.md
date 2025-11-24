@@ -37,8 +37,7 @@ Kerfi sem geymir breytingar á skrám yfir tíma, gerir mörgum kleift að vinna
 ---
 
 ## 6. Hversu oft á að gera commit?
-Mjög oft — í hvert skipti sem þú klárar litla breytingu.  
-Dæmi: laga bug, bæta við texta, bæta við skrám o.s.frv.
+Mjög oft — í hvert skipti sem þú gerir breytingu.  
 
 ---
 
