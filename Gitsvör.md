@@ -6,6 +6,7 @@
 
 ## 2. Hvað gera eftirfarandi Git skipanir?
 **git clone** – afritar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja með.
+
 **git status** – Sýnir stöðu HEAD, td. hvaða skrár eru óskráðar (untracked), hvaða skrám hefur verið breytt eða eytt. Eftir að hafa sviðsett (add to stage) skrárnar þarf að skrá þær (commit) í vinnuskrána (Working Directory). 
 **git diff** – Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit).
 
