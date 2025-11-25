@@ -9,3 +9,5 @@
 3. númer þrjú
 
 [Mogginn](https://www.mbl.is/frettir/)
+
+![Lucho]("C:\Users\fridb\OneDrive\Myndir\myndir\Lucho.png")
