@@ -12,8 +12,8 @@
 
 # Lucho
 
-![Lucho](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png)
+![Lucho](https://github.com/Fribbi-JR/KEST_Verkefni/blob/main/mappa/Lucho.png)
 
 # Mbappé
 
-![Mbappé](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Kylian-Mbappe.jpg)
+![Mbappé](https://github.com/Fribbi-JR/KEST_Verkefni/blob/main/mappa/Kylian-Mbappe.jpg)
