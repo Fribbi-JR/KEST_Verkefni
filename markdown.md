@@ -10,10 +10,10 @@
 
 [Boltinn](https://fotbolti.net/)
 
-# Lucho
+# Lamine Yamal
 
-![Lucho](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png)
+![Lamine](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png)
 
-# Mbappé
+# Hugo Ekitike
 
-![Mbappé](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Kylian-Mbappe.jpg)
+![Hugo](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Kylian-Mbappe.jpg)
