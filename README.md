@@ -16,4 +16,4 @@
 
 # Mbappé
 
-![Mbappé](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Mbappé.png)
+![Mbappé](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Kylian-Mbappé.png)
