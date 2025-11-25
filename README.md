@@ -8,4 +8,4 @@
 2. númer tvö
 3. númer þrjú
 
-[Moggi]https://www.mbl.is/frettir/
+[Mogginn](https://www.mbl.is/frettir/)
