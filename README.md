@@ -12,4 +12,4 @@
 
 # Lucho
 
-![Lucho]("https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png")
+![Lucho](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png)
