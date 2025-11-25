@@ -13,3 +13,7 @@
 # Lucho
 
 ![Lucho](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Lucho.png)
+
+# Mbappé
+
+![Mbappé](https://github.com/Fribbi-JR/KEST-Verkefni/blob/main/mappa/Mbappé.png)
