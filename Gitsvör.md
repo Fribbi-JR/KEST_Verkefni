@@ -5,14 +5,14 @@
 **mkdir** – býr til nýja möppu.
 
 ## 2. Hvað gera eftirfarandi Git skipanir?
-**git clone** – afritar GitHub geymslu niður á tölvuna þína.  
-**git status** – sýnir stöðu skránna (modified, staged, unstaged).  
-**git diff** – sýnir muninn á breyttum skrám frá síðasta commiti.
+**git clone** – afritar Git geymslu á nýtt vinnusvæði, allar skráningar fylgja með.
+**git status** – Sýnir stöðu HEAD, td. hvaða skrár eru óskráðar (untracked), hvaða skrám hefur verið breytt eða eytt. Eftir að hafa sviðsett (add to stage) skrárnar þarf að skrá þær (commit) í vinnuskrána (Working Directory). 
+**git diff** – Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit).
 
 ## 3. Hvað gera eftirfarandi skipanir saman og af hverju eru þær gagnlegar?
-**git log** – sýnir sögu allra commit-a.  
-**git checkout** – fer í eldri commit eða í ákveðna grein.  
-**git branch** – býr til eða sýnir greinar.
+**git log** – Sýnir lista yfir allar skráningar (commit) sem gerðar hafa verið í greininni sem HEAD bendir á.
+**git checkout** – Fylgist með stöðunni og skráir í vinnuskrána.  
+**git branch** – Sýnir lista yfir allar staðtengdar (local) greinar.
 
 **Gagn:** Þær leyfa að skoða útgáfusögu, hoppa í eldri útgáfur, vinna á greinum og skipuleggja verkefnið án þess að skemma main.
 
